@@ -1,0 +1,34 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Uploaded documents
+documents/
+uploads/
+
+# Generated / temporary files
+*.log
+*.tmp
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+
+# Vector database / local data
+chroma/
+chroma_db/
+vectorstore/
+
+# Ollama
+.ollama/
