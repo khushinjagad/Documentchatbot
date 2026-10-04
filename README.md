@@ -1,4 +1,4 @@
-# 📄 Document Q&A Chatbot
+# 📄 Documents Q&A Chatbot
 
 An AI-powered Document Question & Answer chatbot that allows users to ask questions about uploaded documents and receive relevant answers using Retrieval-Augmented Generation (RAG).
 
